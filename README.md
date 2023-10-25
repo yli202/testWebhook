@@ -2,4 +2,4 @@
 
 Hello COMP367!
 
-Hello COMP367 first try!
+Hello COMP367 second try!
